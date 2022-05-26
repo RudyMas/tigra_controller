@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiger;
+namespace Tigra;
 
 use Exception;
 use RudyMas\Manipulator\Text;
@@ -19,7 +19,7 @@ use Twig\Loader\FilesystemLoader;
  * @copyright   2022, rmsoft.be. (https://www.rmsoft.be/)
  * @license     https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
  * @version     7.4.1.0
- * @package     Tiger
+ * @package     Tigra
  */
 class Controller
 {
